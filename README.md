@@ -58,3 +58,4 @@ To run the `VectorCalculator.cpp` file, follow these steps:
 
 ## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
